@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1538641403 source:d:\new folder\list.cpp\main.cpp
+	<iostream>
+	<list>
+

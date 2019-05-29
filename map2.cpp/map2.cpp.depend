@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1539679410 source:d:\new folder\map2.cpp\main.cpp
+	<iostream>
+	<map>
+	<algorithm>
+
